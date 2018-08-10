@@ -7,3 +7,4 @@ NOTE: This is not a plugin!
 
 Thanks to TV. for the help - http://stackoverflow.com/a/22448910 
 
+[![ko-fi](https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0)](https://ko-fi.com/michaelsboost)
